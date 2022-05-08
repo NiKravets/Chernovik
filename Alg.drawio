@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="LIwAxrXnvsplDZc6lKfg" name="Страница 1">
-        <mxGraphModel dx="880" dy="332" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="838" dy="316" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -27,6 +27,11 @@
                 </mxCell>
                 <mxCell id="10" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="9">
                     <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="10">
+                    <mxGeometry x="-0.4463" y="3" relative="1" as="geometry">
+                        <mxPoint x="-3" y="6" as="offset"/>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="7" value="&lt;span&gt;inputArray[index1] &amp;lt;=3&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="240" y="400" width="160" height="100" as="geometry"/>
@@ -91,6 +96,11 @@
                 </mxCell>
                 <mxCell id="23" value="&lt;span&gt;len(outputArray) =&amp;nbsp;&lt;/span&gt;outputArraySize&lt;span&gt;&lt;br&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="410" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="560" y="564" as="geometry">
+                        <mxPoint x="38" y="-7" as="offset"/>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>
